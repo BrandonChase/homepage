@@ -8,7 +8,8 @@ Click any project hyperlink below to view its GitHub page.
  - [(CSE 1325) Robot Shop Manager Terminal](https://github.com/BrandonChase/cse1325-homework5)
  - [(CSE 1325) Robot Shop Manager GUI](https://github.com/BrandonChase/cse1325-homework6)
  - [(CSE 3310) SuperChat](https://github.com/BrandonChase/cse3310-group2/)
- - [(CSE 3311-OOSE) UTAPlanner](https://github.com/BrandonChase/UTAPlanner)
+ - [(CSE 3311) UTAPlanner](https://github.com/BrandonChase/UTAPlanner)
+ - [(CSE 4322) Time Tracker](https://github.com/BrandonChase/time-tracker)
 
 ## SCHOOL ASSIGNMENTS
 ### CSE 1325 (Object-Oriented Programming)
